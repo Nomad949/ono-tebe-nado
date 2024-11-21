@@ -118,5 +118,7 @@ body {
 }
 
 .cover__description-text {
-    word-spacing: 20px;
+    word-spacing: 30px;
+    letter-spacing: 130px;
+    letter-spacing: 200px;
 }
