@@ -36,11 +36,11 @@
     max-width: 240px;
     font-style: normal;
     line-height: 24px;
-    align-self: center; 
     font-size: 18px;
 }
 
 .header__address {
+    align-self: center;
     justify-self: end;
 }
 
@@ -58,7 +58,7 @@
 .overlay {
     position: absolute;
     inset: 0;
-    background-color: rgb(0 0 0 / .6); 
+    background-color: rgb(0 0 0 / .6);
 }
 
 .cover__title {
@@ -222,7 +222,7 @@
     border-radius: 50%;
     background-color: rgb(0 0 0);
     width: 240px;
-    height: 240px; 
+    height: 240px;
 }
 
 .about__logo-image {
@@ -264,6 +264,7 @@
 }
 
 .footer__address {
+    align-self: center;
     justify-self: start;
 }
 
